@@ -1,0 +1,9 @@
+pandoc: 3.1.11
+pkgdown: 2.1.1
+pkgdown_sha: ~
+articles:
+  scriptr: scriptr.html
+last_built: 2025-01-10T08:05Z
+urls:
+  reference: https://edgar-treischl.github.io/scriptr/reference
+  article: https://edgar-treischl.github.io/scriptr/articles
